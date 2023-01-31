@@ -1,2 +1,2 @@
 print("hello world")
-print(12356)
+x = 1 + 5
